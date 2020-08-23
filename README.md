@@ -1,6 +1,6 @@
 # The-Android-App-Market-on-Google-Play
 
-A projectinvolving loading, cleaning, and visualization of scraped Google Play Store data to understand the Android app market.
+A project involving loading, cleaning, and visualization of scraped Google Play Store data to understand the Android app market.
 
 This project gives an opportunity to apply the skills from Intermediate Python and Data Manipulation with Pandas courses from 'Data Scientist with Python' specialization. (https://learn.datacamp.com/career-tracks/data-scientist-with-python?version=4).
 
